@@ -1,1 +1,0 @@
-import random# Configuration dictionarygame_config = {    "colors": ["red", "green", "blue", "yellow", "orange", "purple", "black", "white"],    "num_fields": 3,    "allow_color_repeats": False,    "num_possible_colors": 4,    "max_guesses": 10,
