@@ -18,4 +18,4 @@ import math
 
 for angle in range(0, 361, 30):
     sin_value = round(math.sin(math.radians(angle)),2)
-    print(f"sin({angle}°) = {sin_value}")
+    print(f"sin({angle:03}°) = {sin_value:+.2f}")
